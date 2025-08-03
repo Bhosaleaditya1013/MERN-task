@@ -14,7 +14,7 @@ This project was completed as a technical task for *Cravita Technologies*. It is
 ---
 
 ## 📸 Task Preview:
-![Task Question](Task.png)
+![Task Question](Task.jpg)
 
 ### ✅ Task Output
 ![Task Output](output.png)||![Task Output](output2.png)
